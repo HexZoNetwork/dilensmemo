@@ -1,0 +1,11 @@
+# Dibalik Lensa LFS
+images/**/*.webp filter=lfs diff=lfs merge=lfs -text
+images/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+images/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+images/**/*.png filter=lfs diff=lfs merge=lfs -text
+images/**/*.avif filter=lfs diff=lfs merge=lfs -text
+images/**/*.gif filter=lfs diff=lfs merge=lfs -text
+images/**/*.tiff filter=lfs diff=lfs merge=lfs -text
+images/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.webp filter=lfs diff=lfs merge=lfs -text
+*.avif filter=lfs diff=lfs merge=lfs -text

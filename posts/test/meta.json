@@ -1,0 +1,22 @@
+{
+  "slug": "test",
+  "title": "Test",
+  "coverImage": "/api/image/images/test/1793891359535-6uwlbt.webp",
+  "excerpt": "",
+  "group": "xxx",
+  "contributor": "rexza",
+  "publishedAt": "2026-11-05T15:09:43.916Z",
+  "draft": false,
+  "gallery": [
+    {
+      "id": "1793891359535-6uwlbt",
+      "alt": "Test",
+      "order": 0,
+      "full": "images/test/1793891359535-6uwlbt.webp",
+      "thumb": "images/test/1793891359535-6uwlbt-thumb.webp",
+      "width": 360,
+      "height": 640,
+      "isCover": true
+    }
+  ]
+}

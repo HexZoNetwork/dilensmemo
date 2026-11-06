@@ -2,13 +2,17 @@
   "slug": "dsad",
   "name": "dsad",
   "bio": "",
-  "avatar": "",
-  "socials": {},
+  "avatar": "/api/image/images/avatars/1793945398283-1tvruu-thumb.webp",
+  "socials": {
+    "instagram": "",
+    "website": "",
+    "twitter": ""
+  },
   "location": "",
   "specialty": "",
   "group": "general",
   "role": "member",
   "username": "xxxx",
-  "passwordHash": "548bfd89249bff34b2ffb474c687117e:1c602af635b89303a7dba12f212e66cfd4ec9be914e8a5e3d332616b90ca1ec67f1f3aa6c91629ee42c4e394f2d8aa23847339e3382f89bb4865a918464d3aeb",
+  "passwordHash": "b1560f127103d49276f027430c8e1fbe:839d4e9888ac4a479b892a625e93bb22b8dfd50d5f3d3540535ae36c45c66bd53edf3d4c6018825dcd38202a0c29325c7f61e57138ea13d6aa27f76f43fc9ea1",
   "createdAt": "2026-11-06T02:35:19.196Z"
 }

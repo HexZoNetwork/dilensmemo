@@ -3,7 +3,11 @@
   "name": "Felicia",
   "bio": "",
   "avatar": "/api/image/images/avatars/1794295821428-0jf8x8-thumb.webp",
-  "socials": {},
+  "socials": {
+    "instagram": "ilyzie_83",
+    "website": "",
+    "twitter": ""
+  },
   "location": "",
   "specialty": "",
   "group": "general",

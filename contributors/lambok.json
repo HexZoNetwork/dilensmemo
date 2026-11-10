@@ -3,12 +3,16 @@
   "name": "Lambok",
   "bio": "",
   "avatar": "/api/image/images/avatars/1794295834782-7n9hej-thumb.webp",
-  "socials": {},
+  "socials": {
+    "instagram": "",
+    "website": "",
+    "twitter": ""
+  },
   "location": "",
   "specialty": "",
   "group": "panita-3",
   "role": "member",
   "username": "lambok",
-  "passwordHash": "020750a961a43676037f953fd5a052f2:acb73df8a91aaf6121b9a04314b3173a867b20c010f4f77e22f5dfb10716962f8720cef15553573503db1b83590c196379356fe2e7476258b03dad41d4395f30",
+  "passwordHash": "26522257aeb1632eab252e0c24dc5d32:f9aa2ea354e8a406de6c64bb98ec5e447f7b43fa46820eafe4f495800ee539f0daaadd290dd9fea84e1529736ff23923b8674a786894661f798c46c6aec89135",
   "createdAt": "2026-11-10T07:25:24.612Z"
 }

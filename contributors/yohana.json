@@ -1,0 +1,14 @@
+{
+  "slug": "yohana",
+  "name": "Yohana",
+  "bio": "",
+  "avatar": "/api/image/images/avatars/1794386033663-eqbmgu-thumb.webp",
+  "socials": {},
+  "location": "",
+  "specialty": "",
+  "group": "epitha",
+  "role": "member",
+  "username": "yohana",
+  "passwordHash": "d4f5f308ad067f67671ca682679f1104:449b5af0e8b990568dc277db11402cbfb1e7847fc8d173713f99d118db908295db280f966d79032270fc53b10014f1410158b2840d798719600f5254cbfc92cf",
+  "createdAt": "2026-11-11T08:33:58.455Z"
+}

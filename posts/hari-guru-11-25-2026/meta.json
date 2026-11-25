@@ -1,0 +1,22 @@
+{
+  "slug": "hari-guru-11-25-2026",
+  "title": "Hari Guru 11/25/2026",
+  "coverImage": "/api/image/images/covers/1795613783488-0pxnyp.webp",
+  "excerpt": "Hasil tangkapan grup panitia",
+  "group": "panitia",
+  "contributor": "kasai-juni-bintang",
+  "publishedAt": "2026-11-25T13:37:23.127Z",
+  "draft": false,
+  "gallery": [
+    {
+      "id": "1795613783488-0pxnyp",
+      "alt": "Untitled-1.png",
+      "order": 0,
+      "full": "images/covers/1795613783488-0pxnyp.webp",
+      "thumb": "images/covers/1795613783488-0pxnyp-thumb.webp",
+      "width": 1280,
+      "height": 1280,
+      "isCover": true
+    }
+  ]
+}
